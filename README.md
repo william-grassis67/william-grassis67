@@ -92,7 +92,7 @@ My goal is to keep growing as a backend developer and gain hands-on experience t
 
 | Main | Also using / studying | Currently learning |
 |---|---|---|
-| Java | Python, JavaScript, C#, SQL, HTML, CSS, Bash | Go |
+| Java | Python, JavaScript, C, C#, SQL, HTML, CSS, Bash | Go |
 
 ---
 
@@ -108,6 +108,8 @@ My goal is to keep growing as a backend developer and gain hands-on experience t
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![Nodejs](https://skillicons.dev/icons?i=nodejs)
 ![Python](https://skillicons.dev/icons?i=python)
+![C](https://skillicons.dev/icons?i=c)
+![C#](https://skillicons.dev/icons?i=cs)
 ![Go](https://skillicons.dev/icons?i=go)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
